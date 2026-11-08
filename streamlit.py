@@ -30,7 +30,6 @@ st.code(code_example,language="python")
 st.divider()
 
 
-st.image(os.path.join(os.getcwd(),"BG.jpg"),width=500)
 
 #Data frame 
 st.title("Streamlit elements demo")
